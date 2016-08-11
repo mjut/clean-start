@@ -2,7 +2,7 @@
 Theme Name: Clean Start
 Theme URI: http://clean-start-theme.com/
 Description: Starting point for custom theme making.
-Version: 1.1
+Version: 1.2
 Author: Ackmann & Dickenson
 Author URI: http://ackmanndickenson.com
 
@@ -11,8 +11,3 @@ Tags: clean, basic, starter
 The CSS and HTML are released under the GPL:
 http://www.opensource.org/licenses/gpl-3.0.html
 */
-
-@import "css/reset.css";
-@import "css/typography.css";
-@import "css/global.css";
-@import "css/layout.css";
